@@ -1,13 +1,13 @@
 Fontconfig warning: ignoring C.UTF-8: not a valid language tag
-[INFO  - 2017-06-24T08:50:12.129Z] GhostDriver - Main - running on port 35479
-[INFO  - 2017-06-24T08:50:12.382Z] Session [227b3270-58ba-11e7-8352-6f48e4a24f76] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2017-06-24T08:50:12.382Z] Session [227b3270-58ba-11e7-8352-6f48e4a24f76] - page.customHeaders:  - {}
-[INFO  - 2017-06-24T08:50:12.382Z] Session [227b3270-58ba-11e7-8352-6f48e4a24f76] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2017-06-24T08:50:12.382Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 227b3270-58ba-11e7-8352-6f48e4a24f76
-[ERROR - 2017-06-24T08:50:21.681Z] Session [227b3270-58ba-11e7-8352-6f48e4a24f76] - page.onError - msg: [object Object]
+[INFO  - 2017-06-24T09:17:50.181Z] GhostDriver - Main - running on port 37975
+[INFO  - 2017-06-24T09:17:50.686Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-24T09:17:50.687Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.customHeaders:  - {}
+[INFO  - 2017-06-24T09:17:50.687Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-24T09:17:50.687Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fee89c90-58bd-11e7-b2de-a1962ea4df00
+[ERROR - 2017-06-24T09:17:59.195Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-06-24T08:50:21.681Z] Session [227b3270-58ba-11e7-8352-6f48e4a24f76] - page.onError - stack:
+[ERROR - 2017-06-24T09:17:59.196Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
   error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
   onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
   replaceChild (:0)
@@ -21,10 +21,10 @@ Fontconfig warning: ignoring C.UTF-8: not a valid language tag
   (anonymous function) (https://dex.advg.jp/dx/p/free0?_aid=2865&_free=4388&_del=1:14)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-06-24T08:50:21.682Z] Session [227b3270-58ba-11e7-8352-6f48e4a24f76] - page.onError - msg: [object Object]
+[ERROR - 2017-06-24T09:17:59.196Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-06-24T08:50:21.682Z] Session [227b3270-58ba-11e7-8352-6f48e4a24f76] - page.onError - stack:
+[ERROR - 2017-06-24T09:17:59.196Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
   error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
   onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
   replaceChild (:0)
@@ -36,5 +36,375 @@ Fontconfig warning: ignoring C.UTF-8: not a valid language tag
   k (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
   write (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
   (anonymous function) (https://dex.advg.jp/dx/p/free0?_aid=2865&_free=4388&_del=1:14)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:08.667Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:08.667Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:08.668Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:08.668Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.898Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.898Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.900Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.900Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.901Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.901Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.901Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.901Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.902Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.902Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.902Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.902Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.902Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.902Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.904Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:18:56.904Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:10.965Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:10.965Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:36.763Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:36.763Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:36.763Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:36.764Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:49.856Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:49.856Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:52.610Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:52.610Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:52.610Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:52.610Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:58.616Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:58.617Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:58.617Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:19:58.618Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.824Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.824Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.826Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.826Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.826Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.826Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.827Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.827Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.827Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.827Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.827Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.827Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.828Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:18.828Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:21.819Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:21.819Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:21.819Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:21.820Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:48.343Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:20:48.344Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:21:09.116Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:21:09.116Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:21:09.116Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:21:09.116Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:22:03.441Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:22:03.441Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:22:03.442Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:22:03.442Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-06-24T09:22:50.192Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-06-24T09:23:11.909Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:23:11.909Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:23:11.910Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:23:11.910Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:23:18.489Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:23:18.490Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:23:19.594Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:23:19.594Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:06.273Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:06.273Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:06.754Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:06.754Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:09.752Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:09.753Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:09.753Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:09.754Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:17.504Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: Registered to render while other components are flushing: request may be ignored
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:17.504Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  r (https://resources.newspicks.com/truth/truth-1.1.5.js:13)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:20.984Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:20.985Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:20.985Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:24:20.985Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:25:15.772Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:25:15.773Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:25:15.773Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:25:15.773Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:26:59.276Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:26:59.277Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:26:59.279Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:26:59.281Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:27:04.325Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:27:04.327Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:84)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:27:04.328Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - msg: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-24T09:27:04.329Z] Session [fee89c90-58bd-11e7-b2de-a1962ea4df00] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:77)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-NVQ3PV:85)
 
   phantomjs://platform/console++.js:263 in error
